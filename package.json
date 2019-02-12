@@ -29,6 +29,7 @@
     "i": "^0.3.6",
     "jointjs": "^2.1.4",
     "lodash": "^4.17.10",
+    "npm": "^6.4.1",
     "vue": "^2.5.17",
     "vue-drag-drop": "^1.1.4",
     "vue-upload-component": "^2.8.14",
