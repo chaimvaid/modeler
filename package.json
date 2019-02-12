@@ -18,7 +18,7 @@
     "blank.bpmn"
   ],
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "^5.6.1",
+    "@fortawesome/fontawesome-svg-core": "^1.2.6",
     "@fortawesome/free-solid-svg-icons": "^5.6.1",
     "@fortawesome/vue-fontawesome": "^0.1.1",
     "@processmaker/vue-form-builder": "^0.7.0",
